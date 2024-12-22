@@ -32,6 +32,7 @@ public class Pen
      */
     public Pen()
     {
+        // Vamos a añadir otro comentario en lapiz
         this (280, 220, new Canvas("My Canvas", 560, 440));
     }
 
